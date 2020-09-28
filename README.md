@@ -1,1 +1,1 @@
-# Kaggle_personaly
+# Kaggle_personal
