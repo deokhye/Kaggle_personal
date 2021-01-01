@@ -1,2 +1,4 @@
 # Kaggle_personal
-### 2020. 09. 28. Mon : 그래프까지 
+
+## porto seguro's safe driver prediction
+-1. data preparation & exploration
